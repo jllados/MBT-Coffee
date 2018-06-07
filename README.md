@@ -26,3 +26,5 @@ Example
 It is included a script named ``run_example`` which executes t_coffee with the required parameters.
 The example uses the ``BB11001`` dataset from ``BAliBASE``.
 
+In order to use the MEL reduction, download ``TCoffee-MEL`` or ``PPCAS-MEL`` to generate a reduced library (-out_lib parameter with TCoffee-MEL) and use it as input in ``MBT-Coffee`` (-lib parameter).
+
